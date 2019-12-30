@@ -4,6 +4,7 @@ Automation framework (API) - an example. Based on JavaScript, Mocha, Chai, Super
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v15/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/BurhanH/Automaton-v15.svg?branch=master)](https://travis-ci.org/BurhanH/Automaton-v15)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7878cfa169c946aabd4899e85ff0f119)](https://www.codacy.com/manual/BurhanH/Automaton-v15?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BurhanH/Automaton-v15&amp;utm_campaign=Badge_Grade)
 
 ## Requirements
 NodeJS 13.0.1, Mocha 6.2.2, <br>
