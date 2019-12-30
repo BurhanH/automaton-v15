@@ -10,7 +10,7 @@ In this testing framework I'm testing REST API for [https://api-flask-baur.herok
 Main goal was to show how to easy and fast to create a test framework for REST API on NodeJS. 
 
 ## Requirements
-NodeJS 13.0.1, Mocha 6.2.2, <br>
+NodeJS 13.5.0, Mocha 6.2.2, <br>
 Chai 4.2.0, Supertest 4.0.2 <br>
 
 ## Project structure
