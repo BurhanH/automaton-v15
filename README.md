@@ -6,7 +6,7 @@ Automation framework (API) - an example. Based on JavaScript, Mocha, Chai, Super
 [![Build Status](https://travis-ci.org/BurhanH/Automaton-v15.svg?branch=master)](https://travis-ci.org/BurhanH/Automaton-v15)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7878cfa169c946aabd4899e85ff0f119)](https://www.codacy.com/manual/BurhanH/Automaton-v15?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BurhanH/Automaton-v15&amp;utm_campaign=Badge_Grade)
 
-In this testing framework I'm testing REST API for [https://api-flask-baur.herokuapp.com/](https://api-flask-baur.herokuapp.com/). Simple calls like GET, PUT, DELETE, POST.
+This testing framework to test REST API for [https://api-flask-baur.herokuapp.com/](https://api-flask-baur.herokuapp.com/). Simple calls like GET, PUT, DELETE, POST.
 Main goal was to show how to easy and fast to create a test framework for REST API on NodeJS. 
 
 ## Requirements
