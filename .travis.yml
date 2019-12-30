@@ -6,9 +6,5 @@ cache:
   directories:
   - node_modules
 
-before_install:
-- node -v
-- npm -v
-
 script:
   - npm test
