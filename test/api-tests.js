@@ -60,7 +60,7 @@ describe('REST API Test Suite', function (){
         api.post('api/v1/quotes/11')
             .send({ 
                 quote_id: 11,
-                author: "Anonimus",
+                author: "Anonymous",
                 quote: "Dummy quote."
             })
             .set('Accept', 'application/json')
@@ -91,7 +91,7 @@ describe('REST API Test Suite', function (){
         api.put('api/v1/quotes/8')
             .send({ 
                 quote_id: 8,
-                author: "Anonimus",
+                author: "Anonymous",
                 quote: "There are no words."
             })
             .set('Accept', 'application/json')
