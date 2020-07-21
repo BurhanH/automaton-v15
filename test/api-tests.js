@@ -68,7 +68,7 @@ describe('REST API Test Suite', function (){
             .expect(400)
             .end(function (err, res) {
                 if (err) return done(err);
-                expect(res.text).to.equal('"Quote with id 11 already exists"\n');
+                expect(res.body.error).to.equal('Quote with id 11 already exists');
                 done();
         });
     });
