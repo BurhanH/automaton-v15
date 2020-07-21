@@ -39,7 +39,7 @@ describe('REST API Test Suite', function (){
             .expect(404)
             .end(function (err, res) {
                 if (err) return done(err);
-                expect(res.text).to.equal('"Quote not found"\n');
+                expect(res.body.error).to.equal('Quote not found');
                 done();
         });
     });
