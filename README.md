@@ -16,7 +16,7 @@ Chai 4.3.4, Supertest 6.2.2 <br>
 ```text
 -- automaton-v15
    |-- .gitignore
-   |-- .npmrc
+   |-- package-lock.json
    |-- LICENSE
    |-- package.json
    |-- README.md
