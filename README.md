@@ -9,7 +9,7 @@ This testing framework to test REST API for [https://api-flask-baur.herokuapp.co
 Main goal was to show how to easy and fast to create a test framework for REST API on NodeJS. 
 
 ## Requirements
-NodeJS 13.5.0, Mocha 9.2.0, <br>
+NodeJS 12.* /14.* /16.*, Mocha 9.2.0, <br>
 Chai 4.3.4, Supertest 6.2.2 <br>
 
 ## Project structure
