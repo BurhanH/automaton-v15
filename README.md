@@ -3,6 +3,7 @@
 Automation testing framework (API) - an example. Based on JavaScript, Mocha, Chai, Supertest
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v15/blob/master/LICENSE)
+[![Tests](https://github.com/BurhanH/automaton-v15/actions/workflows/node.js.yml/badge.svg)](https://github.com/BurhanH/automaton-v15/actions/workflows/node.js.yml)
 
 
 This testing framework to test REST API for [https://api-flask-baur.herokuapp.com/](https://api-flask-baur.herokuapp.com/). Simple calls like GET, PUT, DELETE, POST.
