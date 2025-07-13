@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "chai": "^4.3.4",
-    "mocha": "^11.5.0",
+    "mocha": "^11.7.1",
     "supertest": "^6.2.2"
   }
 }
